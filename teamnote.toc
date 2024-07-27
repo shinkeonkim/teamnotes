@@ -35,9 +35,11 @@
 \contentsline {subsection}{\numberline {6.2}Manacher}{15}{}%
 \contentsline {subsection}{\numberline {6.3}Suffix Array}{16}{}%
 \contentsline {subsection}{\numberline {6.4}2nd Suffix Array}{16}{}%
+\contentsline {subsection}{\numberline {6.5}Trie}{17}{}%
+\contentsline {subsection}{\numberline {6.6}Aho-Corasick}{17}{}%
 \contentsline {section}{\numberline {7}Dynamic Programming}{17}{}%
 \contentsline {subsection}{\numberline {7.1}LIS}{17}{}%
-\contentsline {subsection}{\numberline {7.2}LIS only length}{17}{}%
-\contentsline {subsection}{\numberline {7.3}KnapSack}{17}{}%
-\contentsline {subsection}{\numberline {7.4}Coin Change}{17}{}%
+\contentsline {subsection}{\numberline {7.2}LIS only length}{18}{}%
+\contentsline {subsection}{\numberline {7.3}KnapSack}{18}{}%
+\contentsline {subsection}{\numberline {7.4}Coin Change}{18}{}%
 \contentsline {subsection}{\numberline {7.5}Bit Field DP}{18}{}%
