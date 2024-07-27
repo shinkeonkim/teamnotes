@@ -81,3 +81,21 @@ void calc_range_modinv(int n, int mod, int ret[]) {
     for (int i = 2; i <= n; ++i)
         ret[i] = (ll)(mod - mod/i) * ret[mod%i] % mod;
 }
+
+
+// p is prime
+// calculate a^b % p
+ll pow(ll a, ll b){
+    if(b == 0) return 1;
+    ll n = pow(a, b/2) % p;
+    ll temp = (n * n) % p;
+
+    if(b%2==0) return temp;
+    return (a * temp) % p;
+}
+
+// p is prime
+// calculate a/b % p
+ll fermat(ll a, ll b){
+    return a % p * pow(b, p-2) % p;
+}
