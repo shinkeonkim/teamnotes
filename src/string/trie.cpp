@@ -8,11 +8,6 @@ struct Trie {
     for (int i = 0; i < ALPHABETS; i++)
       chil[i] = NULL;
   }
-  ~Trie() {
-    for (int i = 0; i < ALPHABETS; i++)
-      if (chil[i])
-        delete chil[i];
-  }
   // number -> 문자열 번호(ith string)
   void insert(string &s, int number, int idx) {
     if (idx == s.size()) {
