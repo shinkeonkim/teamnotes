@@ -36,7 +36,7 @@
 \contentsline {subsection}{\numberline {5.5}Strongly Connected Component}{15}{}%
 \contentsline {subsection}{\numberline {5.6}2-SAT}{15}{}%
 \contentsline {subsection}{\numberline {5.7}Union Find}{16}{}%
-\contentsline {subsection}{\numberline {5.8}MST Prim}{17}{}%
+\contentsline {subsection}{\numberline {5.8}MST Prim}{16}{}%
 \contentsline {subsection}{\numberline {5.9}Lowest Common Ancestor}{17}{}%
 \contentsline {subsection}{\numberline {5.10}Maxflow dinic}{18}{}%
 \contentsline {subsection}{\numberline {5.11}Maxflow Edmonds-Karp}{18}{}%

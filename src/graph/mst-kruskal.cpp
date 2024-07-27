@@ -1,15 +1,8 @@
 template <class T>  struct MinimumSpanningTree {
-  /*
-    T: 가중치의 타입
-
-    n: 노드 개수
-    m: 간선 개수
-    result : MST 결과 (가중치 합)
-  */ 
+  // T: 가중치의 타입 / n: 노드 개수 / m: 간선 개수 / result : MST 결과 (가중치 합)
   struct Edge { 
     int u, v;
     T weight;
-
     Edge(int u, int v, T weight) : u(u), v(v), weight(weight) {}
     bool operator< (Edge other) const { return weight < other.weight; }
   };
@@ -18,13 +11,11 @@ template <class T>  struct MinimumSpanningTree {
   vector<int> uf;
   vector<Edge> edges;
   vector<Edge> chosen_edges;
-
   T result; // MST의 가중치 합
   int cnt; // 뽑은 간선 수
 
   MinimumSpanningTree(int n, int m) : n(n), m(m) {
     uf.resize(n + 1);
-  
     for1(0, n + 1) {
       uf[i] = i;
     }

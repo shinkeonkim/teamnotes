@@ -1,7 +1,6 @@
 struct BellmanFord {
   struct BellmanEdge {
     ll to, cost;
-
     BellmanEdge(ll to, ll cost) : to(to), cost(cost) {}
   };
 
@@ -19,16 +18,12 @@ struct BellmanFord {
   }
 
   bool run(ll start_point) {
-    // 음수 간선 cycle 유무를 반환합니다.
-    // 거리 정보는 D 벡터에 저장됩니다.
-    // O(V * E)
-
+    // 음수 간선 cycle 유무를 반환합니다. 거리 정보는 D 벡터에 저장됩니다. O(V * E)
     D.resize(N + 1, INF);
     prev.resize(N + 1, -1);
     D[start_point] = 0;
   
     bool isCycle = false;
-
     for1(1, N + 1) {
       for1j(1, N + 1) {
         for(int k=0; k < sz(adj[j]); k++) {

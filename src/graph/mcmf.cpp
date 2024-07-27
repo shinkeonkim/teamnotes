@@ -1,6 +1,5 @@
 // precondition: there is no negative cycle.
-// usage:
-// MinCostFlow mcf(n);
+// usage: MinCostFlow mcf(n);
 // for(each edges) mcf.addEdge(from, to, cost, capacity);
 // mcf.solve(source, sink); // min cost max flow
 // mcf.solve(source, sink, 0); // min cost flow
