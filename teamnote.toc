@@ -42,14 +42,13 @@
 \contentsline {subsection}{\numberline {6.1}KMP}{19}{}%
 \contentsline {subsection}{\numberline {6.2}Manacher}{19}{}%
 \contentsline {subsection}{\numberline {6.3}Suffix Array}{19}{}%
-\contentsline {subsection}{\numberline {6.4}2nd Suffix Array}{20}{}%
-\contentsline {subsection}{\numberline {6.5}Trie}{20}{}%
-\contentsline {subsection}{\numberline {6.6}Aho-Corasick}{21}{}%
-\contentsline {subsection}{\numberline {6.7}Z Algorithm}{21}{}%
+\contentsline {subsection}{\numberline {6.4}Trie}{20}{}%
+\contentsline {subsection}{\numberline {6.5}Aho-Corasick}{20}{}%
+\contentsline {subsection}{\numberline {6.6}Z Algorithm}{20}{}%
 \contentsline {section}{\numberline {7}Dynamic Programming}{21}{}%
 \contentsline {subsection}{\numberline {7.1}LIS}{21}{}%
-\contentsline {subsection}{\numberline {7.2}LIS only length}{22}{}%
-\contentsline {subsection}{\numberline {7.3}KnapSack}{22}{}%
+\contentsline {subsection}{\numberline {7.2}LIS only length}{21}{}%
+\contentsline {subsection}{\numberline {7.3}KnapSack}{21}{}%
 \contentsline {subsection}{\numberline {7.4}Coin Change}{22}{}%
 \contentsline {subsection}{\numberline {7.5}Bit Field DP}{22}{}%
-\contentsline {subsection}{\numberline {7.6}Knuth Optimization}{23}{}%
+\contentsline {subsection}{\numberline {7.6}Knuth Optimization}{22}{}%
