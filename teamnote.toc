@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {3.3}Fenwick Tree 2D}{6}{}%
 \contentsline {subsection}{\numberline {3.4}Merge Sort Tree}{7}{}%
 \contentsline {subsection}{\numberline {3.5}SegmentTree Lazy Propagation}{7}{}%
-\contentsline {subsection}{\numberline {3.6}Treap}{8}{}%
+\contentsline {subsection}{\numberline {3.6}Treap}{7}{}%
 \contentsline {subsection}{\numberline {3.7}Splay Tree}{8}{}%
 \contentsline {section}{\numberline {4}Geometry}{9}{}%
 \contentsline {subsection}{\numberline {4.1}Basic Operations}{9}{}%
@@ -54,6 +54,5 @@
 \contentsline {section}{\numberline {7}Dynamic Programming}{24}{}%
 \contentsline {subsection}{\numberline {7.1}LIS}{24}{}%
 \contentsline {subsection}{\numberline {7.2}KnapSack}{24}{}%
-\contentsline {subsection}{\numberline {7.3}Coin Change}{25}{}%
-\contentsline {subsection}{\numberline {7.4}Bit Field DP}{25}{}%
-\contentsline {subsection}{\numberline {7.5}Knuth Optimization}{25}{}%
+\contentsline {subsection}{\numberline {7.3}Bit Field DP}{25}{}%
+\contentsline {subsection}{\numberline {7.4}Knuth Optimization}{25}{}%
