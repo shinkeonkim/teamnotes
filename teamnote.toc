@@ -3,48 +3,51 @@
 \contentsline {section}{\numberline {2}Math}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Basic Arithmetics}{2}{}%
 \contentsline {subsection}{\numberline {2.2}Convex Hull Trick}{3}{}%
-\contentsline {subsection}{\numberline {2.3}FFT}{3}{}%
-\contentsline {subsection}{\numberline {2.4}Chinese Remainder}{3}{}%
-\contentsline {section}{\numberline {3}Data Structure}{4}{}%
-\contentsline {subsection}{\numberline {3.1}Fenwick Tree}{4}{}%
-\contentsline {subsection}{\numberline {3.2}Merge Sort Tree}{4}{}%
-\contentsline {subsection}{\numberline {3.3}SegmentTree Lazy Propagation}{4}{}%
-\contentsline {subsection}{\numberline {3.4}Treap}{5}{}%
-\contentsline {section}{\numberline {4}Geometry}{5}{}%
-\contentsline {subsection}{\numberline {4.1}Basic Operations}{5}{}%
-\contentsline {subsection}{\numberline {4.2}Convex Hull}{7}{}%
-\contentsline {subsection}{\numberline {4.3}Poiont in Polygon}{7}{}%
-\contentsline {subsection}{\numberline {4.4}Polygon Cut}{7}{}%
-\contentsline {subsection}{\numberline {4.5}Rotating Calipers}{8}{}%
-\contentsline {subsection}{\numberline {4.6}Seperating Axis Theorem}{8}{}%
-\contentsline {subsection}{\numberline {4.7}Two Far Point}{9}{}%
-\contentsline {subsection}{\numberline {4.8}Two Nearest Point}{9}{}%
-\contentsline {section}{\numberline {5}Graph}{9}{}%
-\contentsline {subsection}{\numberline {5.1}Dijkstra}{9}{}%
-\contentsline {subsection}{\numberline {5.2}Bellman-Ford}{10}{}%
-\contentsline {subsection}{\numberline {5.3}Spfa}{10}{}%
-\contentsline {subsection}{\numberline {5.4}Topological Sort}{11}{}%
-\contentsline {subsection}{\numberline {5.5}Strongly Connected Component}{11}{}%
-\contentsline {subsection}{\numberline {5.6}2-SAT}{11}{}%
-\contentsline {subsection}{\numberline {5.7}Union Find}{12}{}%
-\contentsline {subsection}{\numberline {5.8}MST Kruskal}{13}{}%
-\contentsline {subsection}{\numberline {5.9}Lowest Common Ancestor}{13}{}%
-\contentsline {subsection}{\numberline {5.10}Maxflow dinic}{14}{}%
-\contentsline {subsection}{\numberline {5.11}Maxflow Edmonds-Karp}{15}{}%
-\contentsline {subsection}{\numberline {5.12}MCMF SPFA}{15}{}%
-\contentsline {subsection}{\numberline {5.13}MCMF}{16}{}%
-\contentsline {section}{\numberline {6}String}{17}{}%
-\contentsline {subsection}{\numberline {6.1}KMP}{17}{}%
-\contentsline {subsection}{\numberline {6.2}Manacher}{17}{}%
-\contentsline {subsection}{\numberline {6.3}Suffix Array}{18}{}%
-\contentsline {subsection}{\numberline {6.4}2nd Suffix Array}{18}{}%
-\contentsline {subsection}{\numberline {6.5}Trie}{19}{}%
-\contentsline {subsection}{\numberline {6.6}Aho-Corasick}{19}{}%
-\contentsline {subsection}{\numberline {6.7}Z Algorithm}{19}{}%
-\contentsline {section}{\numberline {7}Dynamic Programming}{20}{}%
-\contentsline {subsection}{\numberline {7.1}LIS}{20}{}%
-\contentsline {subsection}{\numberline {7.2}LIS only length}{20}{}%
-\contentsline {subsection}{\numberline {7.3}KnapSack}{20}{}%
-\contentsline {subsection}{\numberline {7.4}Coin Change}{21}{}%
-\contentsline {subsection}{\numberline {7.5}Bit Field DP}{21}{}%
-\contentsline {subsection}{\numberline {7.6}Knuth Optimization}{21}{}%
+\contentsline {subsection}{\numberline {2.3}Luca Theorem}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Pollard Rho}{3}{}%
+\contentsline {subsection}{\numberline {2.5}Gaussian Elimination}{4}{}%
+\contentsline {subsection}{\numberline {2.6}FFT}{4}{}%
+\contentsline {subsection}{\numberline {2.7}Chinese Remainder}{5}{}%
+\contentsline {section}{\numberline {3}Data Structure}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Fenwick Tree}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Merge Sort Tree}{5}{}%
+\contentsline {subsection}{\numberline {3.3}SegmentTree Lazy Propagation}{5}{}%
+\contentsline {subsection}{\numberline {3.4}Treap}{6}{}%
+\contentsline {section}{\numberline {4}Geometry}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Basic Operations}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Convex Hull}{8}{}%
+\contentsline {subsection}{\numberline {4.3}Poiont in Polygon}{8}{}%
+\contentsline {subsection}{\numberline {4.4}Polygon Cut}{9}{}%
+\contentsline {subsection}{\numberline {4.5}Rotating Calipers}{9}{}%
+\contentsline {subsection}{\numberline {4.6}Seperating Axis Theorem}{9}{}%
+\contentsline {subsection}{\numberline {4.7}Two Far Point}{10}{}%
+\contentsline {subsection}{\numberline {4.8}Two Nearest Point}{10}{}%
+\contentsline {section}{\numberline {5}Graph}{10}{}%
+\contentsline {subsection}{\numberline {5.1}Dijkstra}{10}{}%
+\contentsline {subsection}{\numberline {5.2}Bellman-Ford}{11}{}%
+\contentsline {subsection}{\numberline {5.3}Spfa}{11}{}%
+\contentsline {subsection}{\numberline {5.4}Topological Sort}{12}{}%
+\contentsline {subsection}{\numberline {5.5}Strongly Connected Component}{12}{}%
+\contentsline {subsection}{\numberline {5.6}2-SAT}{13}{}%
+\contentsline {subsection}{\numberline {5.7}Union Find}{14}{}%
+\contentsline {subsection}{\numberline {5.8}MST Kruskal}{14}{}%
+\contentsline {subsection}{\numberline {5.9}Lowest Common Ancestor}{14}{}%
+\contentsline {subsection}{\numberline {5.10}Maxflow dinic}{15}{}%
+\contentsline {subsection}{\numberline {5.11}Maxflow Edmonds-Karp}{16}{}%
+\contentsline {subsection}{\numberline {5.12}MCMF SPFA}{16}{}%
+\contentsline {subsection}{\numberline {5.13}MCMF}{17}{}%
+\contentsline {section}{\numberline {6}String}{18}{}%
+\contentsline {subsection}{\numberline {6.1}KMP}{18}{}%
+\contentsline {subsection}{\numberline {6.2}Manacher}{19}{}%
+\contentsline {subsection}{\numberline {6.3}Suffix Array}{19}{}%
+\contentsline {subsection}{\numberline {6.4}2nd Suffix Array}{19}{}%
+\contentsline {subsection}{\numberline {6.5}Trie}{20}{}%
+\contentsline {subsection}{\numberline {6.6}Aho-Corasick}{20}{}%
+\contentsline {subsection}{\numberline {6.7}Z Algorithm}{21}{}%
+\contentsline {section}{\numberline {7}Dynamic Programming}{21}{}%
+\contentsline {subsection}{\numberline {7.1}LIS}{21}{}%
+\contentsline {subsection}{\numberline {7.2}LIS only length}{21}{}%
+\contentsline {subsection}{\numberline {7.3}KnapSack}{22}{}%
+\contentsline {subsection}{\numberline {7.4}Coin Change}{22}{}%
+\contentsline {subsection}{\numberline {7.5}Bit Field DP}{22}{}%
+\contentsline {subsection}{\numberline {7.6}Knuth Optimization}{22}{}%
