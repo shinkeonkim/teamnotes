@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+*.out
+*.o
+*.exe
+
+teamnote.aux
+teamnote.log
+
+test.cpp
+test
+ga README.md
