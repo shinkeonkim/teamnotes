@@ -11,8 +11,8 @@ void makeTree(ll idx, ll ss, ll se) {
   merge(mTree[2 * idx + 1].begin(), mTree[2 * idx + 1].end(), mTree[2 * idx + 2].begin(), mTree[2 * idx + 2].end(), back_inserter(mTree[idx]));
 }
 ll query(ll node, ll start, ll end, ll q_s, ll q_e, ll k) {
-  // i j k: Ai, Ai+1, ..., Aj로 이루어진 부분 수열 중에서 k보다 큰 원소의 개수를 출력
-  한다.if (q_s > end || start > q_e) return 0;
+  // i j k: Ai, Ai+1, ..., Aj로 이루어진 부분 수열 중에서 k보다 큰 원소의 개수를 출력한다.
+  if (q_s > end || start > q_e) return 0;
   if (q_s <= start && q_e >= end) {
     return mTree[node].size() - (upper_bound(mTree[node].begin(), mTree[node].end(), k) - mTree[node].begin());
   }
